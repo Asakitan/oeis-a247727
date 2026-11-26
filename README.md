@@ -1,5 +1,9 @@
 # 四项数组的等和禁配（A247727）
 
+**证明署名：** Chain.Ren · 独立研究 · [完整证明](PROOF.md) · 版本日期：2026-11-26
+
+[固定版本证明](https://github.com/Asakitan/oeis-a247727/blob/proof-v1.0.0/PROOF.md) · [GitHub Release 与公开时间](https://github.com/Asakitan/oeis-a247727/releases/tag/proof-v1.0.0) · [引用信息](CITATION.cff)
+
 证明了 OEIS 所列四次计数式，以及普通、指数生成函数和线性递推。
 
 [OEIS 原条目](https://oeis.org/A247727) · [完整证明](PROOF.md) · [MIT 许可证](LICENSE)

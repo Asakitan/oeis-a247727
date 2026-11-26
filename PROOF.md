@@ -1,5 +1,11 @@
 # A247727：四项整数数组的计数
 
+**署名：** Chain.Ren · 独立研究
+
+**版本：** [proof-v1.0.0](https://github.com/Asakitan/oeis-a247727/releases/tag/proof-v1.0.0) · 版本日期：2026-11-26（Australia/Sydney）；实际公开时间见 Release。
+
+本证明与验证资料在 OpenAI Codex 的实质协助下形成；不代表学校成果，不主张已完成同行评审或核定全球首证。
+
 令 $a_4(n)$ 为字母取自 $\{0,\ldots,n\}$ 的有序四元组数，要求不存在两对互不相交的下标，且两对的和相等。证明 [OEIS A247727](https://oeis.org/A247727) 所列公式：
 
 $$
